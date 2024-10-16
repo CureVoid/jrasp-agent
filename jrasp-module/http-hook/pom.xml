@@ -45,13 +45,13 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.3.30.v20211001</version>
+            <version>12.0.12</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>7.6.21.v20160908</version>
+            <version>12.0.12</version>
             <scope>provided</scope>
         </dependency>
 
